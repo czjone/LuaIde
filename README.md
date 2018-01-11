@@ -83,8 +83,3 @@
 
 1. 0.1.6 修改代码格式化bug   
 1. 将源代码提交至github 
-
-
-# 捐献      
-支持LuaIde的开发 可以通过微信  
-![IDE](https://coding.net/u/k0204/p/imgres/git/raw/master/money.png)
